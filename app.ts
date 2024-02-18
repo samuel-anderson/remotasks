@@ -118,7 +118,7 @@ const person = {
   },
 };
 
-//person.whatIsThis();
+//person.whatIsThis(); //testing
 
 const num = 23;
 const obj = new Object();
